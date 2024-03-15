@@ -1,0 +1,22 @@
+form label{
+    font-size: 1.5rem;
+}
+
+form input{
+    outline: none;
+    font-size: 1.4rem;
+}
+
+form button{
+    width: 15rem;
+    font-size: 1.5rem !important;
+}
+
+form .theCircular{
+    width: 1rem;
+    color: aliceblue;
+}
+
+form .theUploadBtn{
+    font-size: 1.4rem;
+}
